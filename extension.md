@@ -1,0 +1,17 @@
+```sh
+ahmadalli.vscode-nginx-conf
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+eamodio.gitlens
+esbenp.prettier-vscode
+ionutvmi.path-autocomplete
+ms-azuretools.vscode-docker
+MS-CEINTL.vscode-language-pack-zh-hans
+octref.vetur
+raynigon.nginx-formatter
+sibiraj-s.vscode-scss-formatter
+Vue.volar
+wmaurer.vscode-jumpy
+Yggdrasill-7C9.axios-snippets
+```
